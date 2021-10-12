@@ -1,0 +1,20 @@
+$background: #fefefe;
+$text: #232323;
+$link: #f24920;
+$break: 800px;
+$font: monospace, sans-serif;
+* {
+    --webkit-font-feature-settings: "liga" on, "calt" on;
+    --webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+body ::-webkit-scrollbar-thumb, html ::-webkit-scrollbar-thumb {
+  background: #424242;
+}
+body ::-webkit-scrollbar, html ::-webkit-scrollbar {
+  width: 8px;
+}
+body ::selection, html ::selection {
+  background: orange 0;
+  color: #111;
+}

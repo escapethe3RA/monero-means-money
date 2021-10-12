@@ -1,0 +1,7 @@
+title: Monero Means Money
+description: "Monero Means Money - Cryptocurrency 101, Live from Leipzig is a Documentary Feature Film that explains the origins and purpose of Monero, a fungible cryptocurrency."
+url: #
+permalink: /:title/
+exclude: [".jekyll-cache"]
+sass:
+  sourcemap: never

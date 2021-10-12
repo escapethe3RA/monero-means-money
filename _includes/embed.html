@@ -1,0 +1,12 @@
+<div class="videos">
+{% for video in site.data.videos %}
+<div class="video">
+<h2>{{ video.title }}</h2>
+<div class='embed-container'>
+ 	<iframe src='https://invidio.xamh.de/embed/{{ video.id }}'
+	 frameborder='0' allowfullscreen>
+  </iframe>
+</div>
+</div>
+{% endfor %}
+</div>
