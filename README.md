@@ -16,8 +16,7 @@ Built using Jekyll static site generator and basic HTML/CSS (SASS). No plugins.
 
 ### To-do
 
-Disable video embed autoplay.
-Add CNAME file.
+Add CNAME file for custom domain support.
 
 ### License
 
