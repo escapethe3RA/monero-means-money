@@ -1,16 +1,17 @@
-### Hi there 👋
+### About
 
-<!--
-**escapethe3RA/escapethe3RA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repository for the [moneromeans.money website](https://moneromeans.money).
 
-Here are some ideas to get you started:
+### Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built using Jekyll static site generator and basic HTML/CSS (SASS). No plugins.
+
+- minimalist and responsive layout from scratch, w/o using any frameworks
+- toggle Invidio.us instance from _config.yml (video embeds served using front-ends, **not** directly from Youtube)
+- no extra scripts, cookies, etc (besides the video embed frames *mess*)
+- basic SEO meta tags w/o any plugins (canonical links, page/img descriptions)
+- simple 404 page
+
+### To-do
+
+Add permissive LICENSE.
