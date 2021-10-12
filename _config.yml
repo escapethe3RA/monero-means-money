@@ -5,4 +5,4 @@ permalink: /:title/
 exclude: [".jekyll-cache"]
 sass:
   sourcemap: never
-video-instance: invidious.snopyta.org # List of available instances: https://redirect.invidious.io/
+video-instance: yewtu.be # List of available instances: https://redirect.invidious.io/
