@@ -2,6 +2,8 @@
 
 Repository for the [moneromeans.money website](https://moneromeans.money).
 
+**[View site on Github Pages](https://escapethe3ra.github.io/monero-means-money/)** 
+
 ### Features
 
 Built using Jekyll static site generator and basic HTML/CSS (SASS). No plugins.
