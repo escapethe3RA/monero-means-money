@@ -16,4 +16,9 @@ Built using Jekyll static site generator and basic HTML/CSS (SASS). No plugins.
 
 ### To-do
 
-Add permissive LICENSE.
+Disable video embed autoplay.
+Add CNAME file.
+
+### License
+
+This project is licensed under the [MIT license](https://github.com/escapethe3RA/monero-means-money/blob/main/LICENSE).
