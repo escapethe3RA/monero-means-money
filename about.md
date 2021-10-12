@@ -3,7 +3,7 @@ layout: main
 title: About
 ---
 
-# [Monero Means Money](/)
+# [Monero Means Money]({{ site.url }})
 
 ## About
 
